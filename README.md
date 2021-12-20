@@ -32,3 +32,8 @@ https://github.com/fanifh11/SIDOMAR-APPS.git
 - QGIS
 - PostgreSQL
 - DBeaver
+
+## Package Pendukung
+- Metro UI Framework
+- Npgsql
+- Material Skin 2
