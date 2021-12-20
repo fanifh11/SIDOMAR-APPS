@@ -17,7 +17,7 @@ Cara mengoperasikan :
 #### Clone Project
 
 ```bash
-https://github.com/fanifh11/Tugas-CRUD-Android-Laravel.git
+https://github.com/fanifh11/SIDOMAR-APPS.git
 ```
 #### Setting database ke aplikasi
 1. Buka modul
